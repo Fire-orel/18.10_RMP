@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.a1810_rmp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.a1810_rmp"
